@@ -1,2 +1,4 @@
 # eIRe
-Allows use of an Infrared Remote to control Windows applications.
+Electronic Infrared Enhancement (eIRe)
+
+Allows use of an infrared (IR) remote to control Windows applications.
